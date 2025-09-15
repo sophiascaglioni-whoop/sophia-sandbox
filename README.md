@@ -1,6 +1,5 @@
-# Hello World!!
+# README
 
-## Printing Hello
-```bash
-python print_hello.py
-```
+Personal repo.
+
+## Folders
