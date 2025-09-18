@@ -135,9 +135,16 @@ def extract_quarter(df: pd.DataFrame, quarter: str) -> pd.DataFrame:
             date_str = dates[j] + "-01"
             date_obj = datetime.strptime(date_str, "%Y-%m-%d").date()
 
+            # Convert target to numeric value, removing any commas or formatting
+            try:
+                target_numeric = float(val.replace(',', '').replace('$', '').replace('%', ''))
+            except (ValueError, AttributeError):
+                # If conversion fails, skip this record
+                continue
+
             records.append({
                 "Date": date_obj,
-                "Target": val,
+                "Target": target_numeric,
                 "Channel": channel,
                 "Quarter": quarter_norm,
                 "Fcst_Actual": fa_norm,
