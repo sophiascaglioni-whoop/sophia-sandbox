@@ -1,358 +1,355 @@
 Date,Target,Channel,Quarter,Fcst_Actual,category
-2025-07,"61,221",DTC Orders,q3_25,forecast,memberships_sold
-2025-08,"54,253",DTC Orders,q3_25,forecast,memberships_sold
-2025-09,"42,184",DTC Orders,q3_25,forecast,memberships_sold
-2025-07,"22,482",Trial Conversions,q3_25,forecast,memberships_sold
-2025-08,"24,167",Trial Conversions,q3_25,forecast,memberships_sold
-2025-09,"33,654",Trial Conversions,q3_25,forecast,memberships_sold
-2025-07,"46,944",Wholesale Orders,q3_25,forecast,memberships_sold
-2025-08,"36,384",Wholesale Orders,q3_25,forecast,memberships_sold
-2025-09,"38,110",Wholesale Orders,q3_25,forecast,memberships_sold
-2025-07,"29,200",Other Membership Orders,q3_25,forecast,memberships_sold
-2025-08,"13,432",Other Membership Orders,q3_25,forecast,memberships_sold
-2025-09,"9,624",Other Membership Orders,q3_25,forecast,memberships_sold
-2025-07,"159,848",Gross New Members Added,q3_25,forecast,memberships_sold
-2025-08,"128,236",Gross New Members Added,q3_25,forecast,memberships_sold
-2025-09,"123,572",Gross New Members Added,q3_25,forecast,memberships_sold
-2025-08,8.93%,Other Membership Sold Breakout,q3_25,forecast,memberships_sold
-2025-09,-6.90%,Other Membership Sold Breakout,q3_25,forecast,memberships_sold
-2025-07,"28,336",Upcycle,q3_25,forecast,memberships_sold
-2025-08,"12,578",Upcycle,q3_25,forecast,memberships_sold
-2025-09,"8,824",Upcycle,q3_25,forecast,memberships_sold
-2025-07,864,Partnership Bulk Sales,q3_25,forecast,memberships_sold
-2025-08,854,Partnership Bulk Sales,q3_25,forecast,memberships_sold
-2025-09,800,Partnership Bulk Sales,q3_25,forecast,memberships_sold
-2025-07,"14,360",US Trial Purchases,q3_25,forecast,trials_breakout
-2025-08,"22,118",US Trial Purchases,q3_25,forecast,trials_breakout
-2025-09,"22,970",US Trial Purchases,q3_25,forecast,trials_breakout
-2025-07,"34,637",INTL Trial Purchases,q3_25,forecast,trials_breakout
-2025-08,"43,687",INTL Trial Purchases,q3_25,forecast,trials_breakout
-2025-09,"46,617",INTL Trial Purchases,q3_25,forecast,trials_breakout
-2025-07,"14,814",US Eligible Trialers,q3_25,forecast,trial_purchases
-2025-08,"14,230",US Eligible Trialers,q3_25,forecast,trial_purchases
-2025-09,"19,532",US Eligible Trialers,q3_25,forecast,trial_purchases
-2025-07,"33,815",INTL Eligible Trialers,q3_25,forecast,trial_purchases
-2025-08,"33,509",INTL Eligible Trialers,q3_25,forecast,trial_purchases
-2025-09,"40,972",INTL Eligible Trialers,q3_25,forecast,trial_purchases
-2025-07,"7,806",US Trial Conversions,q3_25,forecast,total_eligible_trialers
-2025-08,"8,128",US Trial Conversions,q3_25,forecast,total_eligible_trialers
-2025-09,"11,904",US Trial Conversions,q3_25,forecast,total_eligible_trialers
-2025-07,"14,675",INTL Trial Conversions,q3_25,forecast,total_eligible_trialers
-2025-08,"16,038",INTL Trial Conversions,q3_25,forecast,total_eligible_trialers
-2025-09,"21,750",INTL Trial Conversions,q3_25,forecast,total_eligible_trialers
-2025-07,52.7%,US Trial CVR %,q3_25,forecast,total_trial_conversions
-2025-08,57.1%,US Trial CVR %,q3_25,forecast,total_trial_conversions
-2025-09,60.9%,US Trial CVR %,q3_25,forecast,total_trial_conversions
-2025-07,43.4%,INTL Trial CVR%,q3_25,forecast,total_trial_conversions
-2025-08,47.9%,INTL Trial CVR%,q3_25,forecast,total_trial_conversions
-2025-09,53.1%,INTL Trial CVR%,q3_25,forecast,total_trial_conversions
-2025-07,0.0%,Partnership Trial CVR%,q3_25,forecast,total_trial_conversions
-2025-08,0.0%,Partnership Trial CVR%,q3_25,forecast,total_trial_conversions
-2025-09,0.0%,Partnership Trial CVR%,q3_25,forecast,total_trial_conversions
-2025-07,46.2%,TOTAL DTC Trial CVR %,q3_25,forecast,total_trial_conversions
-2025-08,50.6%,TOTAL DTC Trial CVR %,q3_25,forecast,total_trial_conversions
-2025-09,55.6%,TOTAL DTC Trial CVR %,q3_25,forecast,total_trial_conversions
-2025-07,46.2%,TOTAL TRIAL CVR % (Incl. Partnership),q3_25,forecast,total_trial_conversions
-2025-08,50.6%,TOTAL TRIAL CVR % (Incl. Partnership),q3_25,forecast,total_trial_conversions
-2025-09,55.6%,TOTAL TRIAL CVR % (Incl. Partnership),q3_25,forecast,total_trial_conversions
-2025-07,"1,635,218",Beginning Consumer Members,q3_25,forecast,membership_totals
-2025-08,"1,731,529",Beginning Consumer Members,q3_25,forecast,membership_totals
-2025-09,"1,809,801",Beginning Consumer Members,q3_25,forecast,membership_totals
-2025-07,"142,071",New Members (Activations),q3_25,forecast,membership_totals
-2025-08,"130,226",New Members (Activations),q3_25,forecast,membership_totals
-2025-09,"123,622",New Members (Activations),q3_25,forecast,membership_totals
-2025-07,"(62,887)",Churned Members,q3_25,forecast,membership_totals
-2025-08,"(66,767)",Churned Members,q3_25,forecast,membership_totals
-2025-09,"(67,356)",Churned Members,q3_25,forecast,membership_totals
-2025-07,"(4,553)",Returns & Trial Cancellation,q3_25,forecast,membership_totals
-2025-08,"(3,318)",Returns & Trial Cancellation,q3_25,forecast,membership_totals
-2025-09,"(3,505)",Returns & Trial Cancellation,q3_25,forecast,membership_totals
-2025-07,"(58,334)",Churn (excl. M1),q3_25,forecast,membership_totals
-2025-08,"(63,449)",Churn (excl. M1),q3_25,forecast,membership_totals
-2025-09,"(63,851)",Churn (excl. M1),q3_25,forecast,membership_totals
-2025-07,"17,128",Re-Engaged Members / Legacy,q3_25,forecast,membership_totals
-2025-08,"14,813",Re-Engaged Members / Legacy,q3_25,forecast,membership_totals
-2025-09,"14,653",Re-Engaged Members / Legacy,q3_25,forecast,membership_totals
-2025-07,"1,731,529",Ending Consumer Members,q3_25,forecast,membership_totals
-2025-08,"1,809,801",Ending Consumer Members,q3_25,forecast,membership_totals
-2025-09,"1,880,720",Ending Consumer Members,q3_25,forecast,membership_totals
-2025-07,"1,763",Total Enterprise Members,q3_25,forecast,membership_totals
-2025-08,"1,763",Total Enterprise Members,q3_25,forecast,membership_totals
-2025-09,"1,763",Total Enterprise Members,q3_25,forecast,membership_totals
-2025-07,"1,733,292",Total Members,q3_25,forecast,membership_totals
-2025-08,"1,811,564",Total Members,q3_25,forecast,membership_totals
-2025-09,"1,882,483",Total Members,q3_25,forecast,membership_totals
-2025-07,3.8x,Quick Ratio - Consumer,q3_25,forecast,membership_totals
-2025-08,2.6x,Quick Ratio - Consumer,q3_25,forecast,membership_totals
-2025-09,2.4x,Quick Ratio - Consumer,q3_25,forecast,membership_totals
-2025-07,(3.6%),% Churn,q3_25,forecast,membership_totals
-2025-08,(3.7%),% Churn,q3_25,forecast,membership_totals
-2025-09,(3.5%),% Churn,q3_25,forecast,membership_totals
-2025-07,(2.5%),Net Churn,q3_25,forecast,membership_totals
-2025-08,(2.8%),Net Churn,q3_25,forecast,membership_totals
-2025-09,(2.7%),Net Churn,q3_25,forecast,membership_totals
-2025-07,"3,034",Returns,q3_25,forecast,membership_totals
-2025-08,"1,688",Returns,q3_25,forecast,membership_totals
-2025-09,"1,259",Returns,q3_25,forecast,membership_totals
-2025-07,"1,519",Month 1 Trial Churn,q3_25,forecast,membership_totals
-2025-08,"1,630",Month 1 Trial Churn,q3_25,forecast,membership_totals
-2025-09,"2,246",Month 1 Trial Churn,q3_25,forecast,membership_totals
-2025-07,"4,553",Returns & Trial Cancellation,q3_25,forecast,membership_totals
-2025-08,"3,318",Returns & Trial Cancellation,q3_25,forecast,membership_totals
-2025-09,"3,505",Returns & Trial Cancellation,q3_25,forecast,membership_totals
-2025-07,"$9,684,749",CAC Spend,q3_25,forecast,marketing_spend_blended_cac
-2025-08,"$7,728,612",CAC Spend,q3_25,forecast,marketing_spend_blended_cac
-2025-09,"$7,649,249",CAC Spend,q3_25,forecast,marketing_spend_blended_cac
-2025-07,"131,512",New Demand (Excl Unite & Upcycle),q3_25,forecast,product_breakout
-2025-08,"115,658",New Demand (Excl Unite & Upcycle),q3_25,forecast,product_breakout
-2025-09,"114,748",New Demand (Excl Unite & Upcycle),q3_25,forecast,product_breakout
-2025-07,"14,300",One,q3_25,forecast,product_breakout
-2025-08,"20,956",One,q3_25,forecast,product_breakout
-2025-09,"24,231",One,q3_25,forecast,product_breakout
-2025-07,"53,417",Pro,q3_25,forecast,product_breakout
-2025-08,"58,262",Pro,q3_25,forecast,product_breakout
-2025-09,"60,081",Pro,q3_25,forecast,product_breakout
-2025-07,"41,313",Life,q3_25,forecast,product_breakout
-2025-08,"34,265",Life,q3_25,forecast,product_breakout
-2025-09,"30,436",Life,q3_25,forecast,product_breakout
-2025-07,"62,699",Upgraders,q3_25,forecast,product_breakout
-2025-08,"50,043",Upgraders,q3_25,forecast,product_breakout
-2025-09,"40,021",Upgraders,q3_25,forecast,product_breakout
-2025-07,"1,079",One,q3_25,forecast,product_breakout
-2025-08,"1,069",One,q3_25,forecast,product_breakout
-2025-09,959,One,q3_25,forecast,product_breakout
-2025-07,"39,986",Pro,q3_25,forecast,product_breakout
-2025-08,"32,048",Pro,q3_25,forecast,product_breakout
-2025-09,"25,771",Pro,q3_25,forecast,product_breakout
-2025-07,"21,634",Life,q3_25,forecast,product_breakout
-2025-08,"16,926",Life,q3_25,forecast,product_breakout
-2025-09,"13,291",Life,q3_25,forecast,product_breakout
-2025-07,"194,210",Total New Demand & Upgrades,q3_25,forecast,product_breakout
-2025-08,"165,701",Total New Demand & Upgrades,q3_25,forecast,product_breakout
-2025-09,"154,769",Total New Demand & Upgrades,q3_25,forecast,product_breakout
-2025-07,"15,379",One,q3_25,forecast,product_breakout
-2025-08,"22,025",One,q3_25,forecast,product_breakout
-2025-09,"25,189",One,q3_25,forecast,product_breakout
-2025-07,"93,403",Pro,q3_25,forecast,product_breakout
-2025-08,"90,310",Pro,q3_25,forecast,product_breakout
-2025-09,"85,852",Pro,q3_25,forecast,product_breakout
-2025-07,"62,947",Life,q3_25,forecast,product_breakout
-2025-08,"51,191",Life,q3_25,forecast,product_breakout
-2025-09,"43,728",Life,q3_25,forecast,product_breakout
-2025-07,"1,733,292",Total Membership,q3_25,forecast,product_breakout
-2025-08,"1,811,564",Total Membership,q3_25,forecast,product_breakout
-2025-09,"1,882,483",Total Membership,q3_25,forecast,product_breakout
-2025-07,"39,050",One,q3_25,forecast,product_breakout
-2025-08,"61,075",One,q3_25,forecast,product_breakout
-2025-09,"86,265",One,q3_25,forecast,product_breakout
-2025-07,"366,945",Pro,q3_25,forecast,product_breakout
-2025-08,"457,255",Pro,q3_25,forecast,product_breakout
-2025-09,"543,106",Pro,q3_25,forecast,product_breakout
-2025-07,"310,166",Life,q3_25,forecast,product_breakout
-2025-08,"361,357",Life,q3_25,forecast,product_breakout
-2025-09,"405,084",Life,q3_25,forecast,product_breakout
-2025-07,"$1,398,685",New Member Bookings,q3_25,forecast,initial_a_a_demand
-2025-08,"$1,166,819",New Member Bookings,q3_25,forecast,initial_a_a_demand
-2025-09,"$928,305",New Member Bookings,q3_25,forecast,initial_a_a_demand
-2025-07,"$4,980,244",Existing Member Bookings,q3_25,forecast,initial_a_a_demand
-2025-08,"$5,427,581",Existing Member Bookings,q3_25,forecast,initial_a_a_demand
-2025-09,"$5,474,256",Existing Member Bookings,q3_25,forecast,initial_a_a_demand
-2025-07,"$279,880",Life+ Bookings,q3_25,forecast,initial_a_a_demand
-2025-08,"$255,547",Life+ Bookings,q3_25,forecast,initial_a_a_demand
-2025-09,"$236,279",Life+ Bookings,q3_25,forecast,initial_a_a_demand
-2025-07,"$6,658,809",DTC A&A Gross Bookings,q3_25,forecast,initial_a_a_demand
-2025-08,"$6,849,947",DTC A&A Gross Bookings,q3_25,forecast,initial_a_a_demand
-2025-09,"$6,638,840",DTC A&A Gross Bookings,q3_25,forecast,initial_a_a_demand
-2025-07,"$1,015,264",WHL A&A Revenue,q3_25,forecast,initial_a_a_demand
-2025-08,"$946,550",WHL A&A Revenue,q3_25,forecast,initial_a_a_demand
-2025-09,"$1,294,345",WHL A&A Revenue,q3_25,forecast,initial_a_a_demand
-2025-07,"$7,674,073",Total A&A,q3_25,forecast,initial_a_a_demand
-2025-08,"$7,796,497",Total A&A,q3_25,forecast,initial_a_a_demand
-2025-09,"$7,933,185",Total A&A,q3_25,forecast,initial_a_a_demand
-2025-07,"$474,901",Battery Pack,q3_25,forecast,initial_a_a_demand
-2025-08,"$431,405",Battery Pack,q3_25,forecast,initial_a_a_demand
-2025-09,"$565,549",Battery Pack,q3_25,forecast,initial_a_a_demand
-2025-07,"$540,363",Bands,q3_25,forecast,initial_a_a_demand
-2025-08,"$515,144",Bands,q3_25,forecast,initial_a_a_demand
-2025-09,"$728,796",Bands,q3_25,forecast,initial_a_a_demand
-2025-07,"$1,015,264",Total,q3_25,forecast,initial_a_a_demand
-2025-08,"$946,550",Total,q3_25,forecast,initial_a_a_demand
-2025-09,"$1,294,345",Total,q3_25,forecast,initial_a_a_demand
-2025-10,"39,408",DTC Orders,q4_25,forecast,memberships_sold
-2025-11,"75,863",DTC Orders,q4_25,forecast,memberships_sold
-2025-12,"72,281",DTC Orders,q4_25,forecast,memberships_sold
-2025-10,"39,292",Trial Conversions,q4_25,forecast,memberships_sold
-2025-11,"37,378",Trial Conversions,q4_25,forecast,memberships_sold
-2025-12,"41,506",Trial Conversions,q4_25,forecast,memberships_sold
-2025-10,"54,456",Wholesale Orders,q4_25,forecast,memberships_sold
-2025-11,"75,127",Wholesale Orders,q4_25,forecast,memberships_sold
-2025-12,"66,364",Wholesale Orders,q4_25,forecast,memberships_sold
-2025-10,"6,557",Other Membership Orders,q4_25,forecast,memberships_sold
-2025-11,"5,555",Other Membership Orders,q4_25,forecast,memberships_sold
-2025-12,"5,906",Other Membership Orders,q4_25,forecast,memberships_sold
-2025-10,"139,713",Gross New Members Added,q4_25,forecast,memberships_sold
-2025-11,"193,923",Gross New Members Added,q4_25,forecast,memberships_sold
-2025-12,"186,058",Gross New Members Added,q4_25,forecast,memberships_sold
-2025-10,-6.63%,Other Membership Sold Breakout,q4_25,forecast,memberships_sold
-2025-10,"5,884",Upcycle,q4_25,forecast,memberships_sold
-2025-11,"4,556",Upcycle,q4_25,forecast,memberships_sold
-2025-12,"3,794",Upcycle,q4_25,forecast,memberships_sold
-2025-10,673,Partnership Bulk Sales,q4_25,forecast,memberships_sold
-2025-11,999,Partnership Bulk Sales,q4_25,forecast,memberships_sold
-2025-12,"2,112",Partnership Bulk Sales,q4_25,forecast,memberships_sold
-2025-10,"21,698",US Trial Purchases,q4_25,forecast,trials_breakout
-2025-11,"24,506",US Trial Purchases,q4_25,forecast,trials_breakout
-2025-12,"15,971",US Trial Purchases,q4_25,forecast,trials_breakout
-2025-10,"43,253",INTL Trial Purchases,q4_25,forecast,trials_breakout
-2025-11,"52,540",INTL Trial Purchases,q4_25,forecast,trials_breakout
-2025-12,"39,143",INTL Trial Purchases,q4_25,forecast,trials_breakout
-2025-10,"22,686",US Eligible Trialers,q4_25,forecast,trial_purchases
-2025-11,"22,122",US Eligible Trialers,q4_25,forecast,trial_purchases
-2025-12,"23,570",US Eligible Trialers,q4_25,forecast,trial_purchases
-2025-10,"45,738",INTL Eligible Trialers,q4_25,forecast,trial_purchases
-2025-11,"44,262",INTL Eligible Trialers,q4_25,forecast,trial_purchases
-2025-12,"49,753",INTL Eligible Trialers,q4_25,forecast,trial_purchases
-2025-10,"14,353",US Trial Conversions,q4_25,forecast,total_eligible_trialers
-2025-11,"14,112",US Trial Conversions,q4_25,forecast,total_eligible_trialers
-2025-12,"15,111",US Trial Conversions,q4_25,forecast,total_eligible_trialers
-2025-10,"24,939",INTL Trial Conversions,q4_25,forecast,total_eligible_trialers
-2025-11,"23,266",INTL Trial Conversions,q4_25,forecast,total_eligible_trialers
-2025-12,"26,395",INTL Trial Conversions,q4_25,forecast,total_eligible_trialers
-2025-10,63.3%,US Trial CVR %,q4_25,forecast,total_trial_conversions
-2025-11,63.8%,US Trial CVR %,q4_25,forecast,total_trial_conversions
-2025-12,64.1%,US Trial CVR %,q4_25,forecast,total_trial_conversions
-2025-10,54.5%,INTL Trial CVR%,q4_25,forecast,total_trial_conversions
-2025-11,52.6%,INTL Trial CVR%,q4_25,forecast,total_trial_conversions
-2025-12,53.1%,INTL Trial CVR%,q4_25,forecast,total_trial_conversions
-2025-10,0.0%,Partnership Trial CVR%,q4_25,forecast,total_trial_conversions
-2025-11,0.0%,Partnership Trial CVR%,q4_25,forecast,total_trial_conversions
-2025-12,0.0%,Partnership Trial CVR%,q4_25,forecast,total_trial_conversions
-2025-10,57.4%,TOTAL DTC Trial CVR %,q4_25,forecast,total_trial_conversions
-2025-11,56.3%,TOTAL DTC Trial CVR %,q4_25,forecast,total_trial_conversions
-2025-12,56.6%,TOTAL DTC Trial CVR %,q4_25,forecast,total_trial_conversions
-2025-10,57.4%,TOTAL TRIAL CVR % (Incl. Partnership),q4_25,forecast,total_trial_conversions
-2025-11,56.3%,TOTAL TRIAL CVR % (Incl. Partnership),q4_25,forecast,total_trial_conversions
-2025-12,56.6%,TOTAL TRIAL CVR % (Incl. Partnership),q4_25,forecast,total_trial_conversions
-2025-10,"1,880,720",Beginning Consumer Members,q4_25,forecast,membership_totals
-2025-11,"1,960,649",Beginning Consumer Members,q4_25,forecast,membership_totals
-2025-12,"2,055,401",Beginning Consumer Members,q4_25,forecast,membership_totals
-2025-10,"132,609",New Members (Activations),q4_25,forecast,membership_totals
-2025-11,"142,890",New Members (Activations),q4_25,forecast,membership_totals
-2025-12,"204,951",New Members (Activations),q4_25,forecast,membership_totals
-2025-10,"(67,214)",Churned Members,q4_25,forecast,membership_totals
-2025-11,"(62,395)",Churned Members,q4_25,forecast,membership_totals
-2025-12,"(81,726)",Churned Members,q4_25,forecast,membership_totals
-2025-10,"(3,585)",Returns & Trial Cancellation,q4_25,forecast,membership_totals
-2025-11,"(3,475)",Returns & Trial Cancellation,q4_25,forecast,membership_totals
-2025-12,"(4,127)",Returns & Trial Cancellation,q4_25,forecast,membership_totals
-2025-10,"(63,629)",Churn (excl. M1),q4_25,forecast,membership_totals
-2025-11,"(58,920)",Churn (excl. M1),q4_25,forecast,membership_totals
-2025-12,"(77,599)",Churn (excl. M1),q4_25,forecast,membership_totals
-2025-10,"14,533",Re-Engaged Members / Legacy,q4_25,forecast,membership_totals
-2025-11,"14,258",Re-Engaged Members / Legacy,q4_25,forecast,membership_totals
-2025-12,"15,569",Re-Engaged Members / Legacy,q4_25,forecast,membership_totals
-2025-10,"1,960,649",Ending Consumer Members,q4_25,forecast,membership_totals
-2025-11,"2,055,401",Ending Consumer Members,q4_25,forecast,membership_totals
-2025-12,"2,194,196",Ending Consumer Members,q4_25,forecast,membership_totals
-2025-10,"1,763",Total Enterprise Members,q4_25,forecast,membership_totals
-2025-11,"1,763",Total Enterprise Members,q4_25,forecast,membership_totals
-2025-12,"1,763",Total Enterprise Members,q4_25,forecast,membership_totals
-2025-10,"1,962,412",Total Members,q4_25,forecast,membership_totals
-2025-11,"2,057,164",Total Members,q4_25,forecast,membership_totals
-2025-12,"2,195,959",Total Members,q4_25,forecast,membership_totals
-2025-10,2.8x,Quick Ratio - Consumer,q4_25,forecast,membership_totals
-2025-11,4.3x,Quick Ratio - Consumer,q4_25,forecast,membership_totals
-2025-12,2.9x,Quick Ratio - Consumer,q4_25,forecast,membership_totals
-2025-10,(3.4%),% Churn,q4_25,forecast,membership_totals
-2025-11,(3.0%),% Churn,q4_25,forecast,membership_totals
-2025-12,(3.8%),% Churn,q4_25,forecast,membership_totals
-2025-10,(2.6%),Net Churn,q4_25,forecast,membership_totals
-2025-11,(2.3%),Net Churn,q4_25,forecast,membership_totals
-2025-12,(3.0%),Net Churn,q4_25,forecast,membership_totals
-2025-10,978,Returns,q4_25,forecast,membership_totals
-2025-11,963,Returns,q4_25,forecast,membership_totals
-2025-12,"1,256",Returns,q4_25,forecast,membership_totals
-2025-10,"2,607",Month 1 Trial Churn,q4_25,forecast,membership_totals
-2025-11,"2,512",Month 1 Trial Churn,q4_25,forecast,membership_totals
-2025-12,"2,871",Month 1 Trial Churn,q4_25,forecast,membership_totals
-2025-10,"3,585",Returns & Trial Cancellation,q4_25,forecast,membership_totals
-2025-11,"3,475",Returns & Trial Cancellation,q4_25,forecast,membership_totals
-2025-12,"4,127",Returns & Trial Cancellation,q4_25,forecast,membership_totals
-2025-10,"$7,721,757",CAC Spend,q4_25,forecast,marketing_spend_blended_cac
-2025-11,"$11,504,367",CAC Spend,q4_25,forecast,marketing_spend_blended_cac
-2025-12,"$11,231,261",CAC Spend,q4_25,forecast,marketing_spend_blended_cac
-2025-10,"133,829",New Demand (Excl Unite & Upcycle),q4_25,forecast,product_breakout
-2025-11,"189,367",New Demand (Excl Unite & Upcycle),q4_25,forecast,product_breakout
-2025-12,"182,264",New Demand (Excl Unite & Upcycle),q4_25,forecast,product_breakout
-2025-10,"28,134",One,q4_25,forecast,product_breakout
-2025-11,"29,962",One,q4_25,forecast,product_breakout
-2025-12,"35,561",One,q4_25,forecast,product_breakout
-2025-10,"69,933",Pro,q4_25,forecast,product_breakout
-2025-11,"99,773",Pro,q4_25,forecast,product_breakout
-2025-12,"94,340",Pro,q4_25,forecast,product_breakout
-2025-10,"35,762",Life,q4_25,forecast,product_breakout
-2025-11,"59,632",Life,q4_25,forecast,product_breakout
-2025-12,"52,363",Life,q4_25,forecast,product_breakout
-2025-10,"30,497",Upgraders,q4_25,forecast,product_breakout
-2025-11,"32,218",Upgraders,q4_25,forecast,product_breakout
-2025-12,"32,101",Upgraders,q4_25,forecast,product_breakout
-2025-10,671,One,q4_25,forecast,product_breakout
-2025-11,609,One,q4_25,forecast,product_breakout
-2025-12,619,One,q4_25,forecast,product_breakout
-2025-10,"19,464",Pro,q4_25,forecast,product_breakout
-2025-11,"20,576",Pro,q4_25,forecast,product_breakout
-2025-12,"20,586",Pro,q4_25,forecast,product_breakout
-2025-10,"10,361",Life,q4_25,forecast,product_breakout
-2025-11,"11,033",Life,q4_25,forecast,product_breakout
-2025-12,"10,896",Life,q4_25,forecast,product_breakout
-2025-10,"164,326",Total New Demand & Upgrades,q4_25,forecast,product_breakout
-2025-11,"221,585",Total New Demand & Upgrades,q4_25,forecast,product_breakout
-2025-12,"214,365",Total New Demand & Upgrades,q4_25,forecast,product_breakout
-2025-10,"28,805",One,q4_25,forecast,product_breakout
-2025-11,"30,571",One,q4_25,forecast,product_breakout
-2025-12,"36,180",One,q4_25,forecast,product_breakout
-2025-10,"89,397",Pro,q4_25,forecast,product_breakout
-2025-11,"120,349",Pro,q4_25,forecast,product_breakout
-2025-12,"114,926",Pro,q4_25,forecast,product_breakout
-2025-10,"46,123",Life,q4_25,forecast,product_breakout
-2025-11,"70,664",Life,q4_25,forecast,product_breakout
-2025-12,"63,259",Life,q4_25,forecast,product_breakout
-2025-10,"1,962,412",Total Membership,q4_25,forecast,product_breakout
-2025-11,"2,057,164",Total Membership,q4_25,forecast,product_breakout
-2025-12,"2,195,959",Total Membership,q4_25,forecast,product_breakout
-2025-10,"115,070",One,q4_25,forecast,product_breakout
-2025-11,"145,641",One,q4_25,forecast,product_breakout
-2025-12,"181,821",One,q4_25,forecast,product_breakout
-2025-10,"632,503",Pro,q4_25,forecast,product_breakout
-2025-11,"752,853",Pro,q4_25,forecast,product_breakout
-2025-12,"867,778",Pro,q4_25,forecast,product_breakout
-2025-10,"451,208",Life,q4_25,forecast,product_breakout
-2025-11,"521,872",Life,q4_25,forecast,product_breakout
-2025-12,"585,132",Life,q4_25,forecast,product_breakout
-2025-10,"$885,396",New Member Bookings,q4_25,forecast,initial_a_a_demand
-2025-11,"$1,627,662",New Member Bookings,q4_25,forecast,initial_a_a_demand
-2025-12,"$1,530,795",New Member Bookings,q4_25,forecast,initial_a_a_demand
-2025-10,"$5,635,747",Existing Member Bookings,q4_25,forecast,initial_a_a_demand
-2025-11,"$8,610,643",Existing Member Bookings,q4_25,forecast,initial_a_a_demand
-2025-12,"$7,283,393",Existing Member Bookings,q4_25,forecast,initial_a_a_demand
-2025-10,"$388,662",Life+ Bookings,q4_25,forecast,initial_a_a_demand
-2025-11,"$330,028",Life+ Bookings,q4_25,forecast,initial_a_a_demand
-2025-12,$0,Life+ Bookings,q4_25,forecast,initial_a_a_demand
-2025-10,"$6,909,805",DTC A&A Gross Bookings,q4_25,forecast,initial_a_a_demand
-2025-11,"$10,568,333",DTC A&A Gross Bookings,q4_25,forecast,initial_a_a_demand
-2025-12,"$8,814,188",DTC A&A Gross Bookings,q4_25,forecast,initial_a_a_demand
-2025-10,"$1,758,175",WHL A&A Revenue,q4_25,forecast,initial_a_a_demand
-2025-11,"$2,490,732",WHL A&A Revenue,q4_25,forecast,initial_a_a_demand
-2025-12,"$2,049,180",WHL A&A Revenue,q4_25,forecast,initial_a_a_demand
-2025-10,"$8,667,980",Total A&A,q4_25,forecast,initial_a_a_demand
-2025-11,"$13,059,065",Total A&A,q4_25,forecast,initial_a_a_demand
-2025-12,"$10,863,368",Total A&A,q4_25,forecast,initial_a_a_demand
-2025-10,"$752,920",Battery Pack,q4_25,forecast,initial_a_a_demand
-2025-11,"$1,078,109",Battery Pack,q4_25,forecast,initial_a_a_demand
-2025-12,"$861,075",Battery Pack,q4_25,forecast,initial_a_a_demand
-2025-10,"$1,005,254",Bands,q4_25,forecast,initial_a_a_demand
-2025-11,"$1,412,623",Bands,q4_25,forecast,initial_a_a_demand
-2025-12,"$1,188,105",Bands,q4_25,forecast,initial_a_a_demand
-2025-10,"$1,758,175",Total,q4_25,forecast,initial_a_a_demand
-2025-11,"$2,490,732",Total,q4_25,forecast,initial_a_a_demand
-2025-12,"$2,049,180",Total,q4_25,forecast,initial_a_a_demand
+2025-07-01,"61,221",DTC Orders,q3_25,forecast,memberships_sold
+2025-08-01,"54,253",DTC Orders,q3_25,forecast,memberships_sold
+2025-09-01,"42,184",DTC Orders,q3_25,forecast,memberships_sold
+2025-07-01,"22,482",Trial Conversions,q3_25,forecast,memberships_sold
+2025-08-01,"24,167",Trial Conversions,q3_25,forecast,memberships_sold
+2025-09-01,"33,654",Trial Conversions,q3_25,forecast,memberships_sold
+2025-07-01,"46,944",Wholesale Orders,q3_25,forecast,memberships_sold
+2025-08-01,"36,384",Wholesale Orders,q3_25,forecast,memberships_sold
+2025-09-01,"38,110",Wholesale Orders,q3_25,forecast,memberships_sold
+2025-07-01,"29,200",Other Membership Orders,q3_25,forecast,memberships_sold
+2025-08-01,"13,432",Other Membership Orders,q3_25,forecast,memberships_sold
+2025-09-01,"9,624",Other Membership Orders,q3_25,forecast,memberships_sold
+2025-07-01,"159,848",Gross New Members Added,q3_25,forecast,memberships_sold
+2025-08-01,"128,236",Gross New Members Added,q3_25,forecast,memberships_sold
+2025-09-01,"123,572",Gross New Members Added,q3_25,forecast,memberships_sold
+2025-07-01,"28,336",Upcycle,q3_25,forecast,memberships_sold
+2025-08-01,"12,578",Upcycle,q3_25,forecast,memberships_sold
+2025-09-01,"8,824",Upcycle,q3_25,forecast,memberships_sold
+2025-07-01,864,Partnership Bulk Sales,q3_25,forecast,memberships_sold
+2025-08-01,854,Partnership Bulk Sales,q3_25,forecast,memberships_sold
+2025-09-01,800,Partnership Bulk Sales,q3_25,forecast,memberships_sold
+2025-07-01,"14,360",US Trial Purchases,q3_25,forecast,trials_breakout
+2025-08-01,"22,118",US Trial Purchases,q3_25,forecast,trials_breakout
+2025-09-01,"22,970",US Trial Purchases,q3_25,forecast,trials_breakout
+2025-07-01,"34,637",INTL Trial Purchases,q3_25,forecast,trials_breakout
+2025-08-01,"43,687",INTL Trial Purchases,q3_25,forecast,trials_breakout
+2025-09-01,"46,617",INTL Trial Purchases,q3_25,forecast,trials_breakout
+2025-07-01,"14,814",US Eligible Trialers,q3_25,forecast,trial_purchases
+2025-08-01,"14,230",US Eligible Trialers,q3_25,forecast,trial_purchases
+2025-09-01,"19,532",US Eligible Trialers,q3_25,forecast,trial_purchases
+2025-07-01,"33,815",INTL Eligible Trialers,q3_25,forecast,trial_purchases
+2025-08-01,"33,509",INTL Eligible Trialers,q3_25,forecast,trial_purchases
+2025-09-01,"40,972",INTL Eligible Trialers,q3_25,forecast,trial_purchases
+2025-07-01,"7,806",US Trial Conversions,q3_25,forecast,total_eligible_trialers
+2025-08-01,"8,128",US Trial Conversions,q3_25,forecast,total_eligible_trialers
+2025-09-01,"11,904",US Trial Conversions,q3_25,forecast,total_eligible_trialers
+2025-07-01,"14,675",INTL Trial Conversions,q3_25,forecast,total_eligible_trialers
+2025-08-01,"16,038",INTL Trial Conversions,q3_25,forecast,total_eligible_trialers
+2025-09-01,"21,750",INTL Trial Conversions,q3_25,forecast,total_eligible_trialers
+2025-07-01,52.7%,US Trial CVR %,q3_25,forecast,total_trial_conversions
+2025-08-01,57.1%,US Trial CVR %,q3_25,forecast,total_trial_conversions
+2025-09-01,60.9%,US Trial CVR %,q3_25,forecast,total_trial_conversions
+2025-07-01,43.4%,INTL Trial CVR%,q3_25,forecast,total_trial_conversions
+2025-08-01,47.9%,INTL Trial CVR%,q3_25,forecast,total_trial_conversions
+2025-09-01,53.1%,INTL Trial CVR%,q3_25,forecast,total_trial_conversions
+2025-07-01,0.0%,Partnership Trial CVR%,q3_25,forecast,total_trial_conversions
+2025-08-01,0.0%,Partnership Trial CVR%,q3_25,forecast,total_trial_conversions
+2025-09-01,0.0%,Partnership Trial CVR%,q3_25,forecast,total_trial_conversions
+2025-07-01,46.2%,TOTAL DTC Trial CVR %,q3_25,forecast,total_trial_conversions
+2025-08-01,50.6%,TOTAL DTC Trial CVR %,q3_25,forecast,total_trial_conversions
+2025-09-01,55.6%,TOTAL DTC Trial CVR %,q3_25,forecast,total_trial_conversions
+2025-07-01,46.2%,TOTAL TRIAL CVR % (Incl. Partnership),q3_25,forecast,total_trial_conversions
+2025-08-01,50.6%,TOTAL TRIAL CVR % (Incl. Partnership),q3_25,forecast,total_trial_conversions
+2025-09-01,55.6%,TOTAL TRIAL CVR % (Incl. Partnership),q3_25,forecast,total_trial_conversions
+2025-07-01,"1,635,218",Beginning Consumer Members,q3_25,forecast,membership_totals
+2025-08-01,"1,731,529",Beginning Consumer Members,q3_25,forecast,membership_totals
+2025-09-01,"1,809,801",Beginning Consumer Members,q3_25,forecast,membership_totals
+2025-07-01,"142,071",New Members (Activations),q3_25,forecast,membership_totals
+2025-08-01,"130,226",New Members (Activations),q3_25,forecast,membership_totals
+2025-09-01,"123,622",New Members (Activations),q3_25,forecast,membership_totals
+2025-07-01,"(62,887)",Churned Members,q3_25,forecast,membership_totals
+2025-08-01,"(66,767)",Churned Members,q3_25,forecast,membership_totals
+2025-09-01,"(67,356)",Churned Members,q3_25,forecast,membership_totals
+2025-07-01,"(4,553)",Returns & Trial Cancellation,q3_25,forecast,membership_totals
+2025-08-01,"(3,318)",Returns & Trial Cancellation,q3_25,forecast,membership_totals
+2025-09-01,"(3,505)",Returns & Trial Cancellation,q3_25,forecast,membership_totals
+2025-07-01,"(58,334)",Churn (excl. M1),q3_25,forecast,membership_totals
+2025-08-01,"(63,449)",Churn (excl. M1),q3_25,forecast,membership_totals
+2025-09-01,"(63,851)",Churn (excl. M1),q3_25,forecast,membership_totals
+2025-07-01,"17,128",Re-Engaged Members / Legacy,q3_25,forecast,membership_totals
+2025-08-01,"14,813",Re-Engaged Members / Legacy,q3_25,forecast,membership_totals
+2025-09-01,"14,653",Re-Engaged Members / Legacy,q3_25,forecast,membership_totals
+2025-07-01,"1,731,529",Ending Consumer Members,q3_25,forecast,membership_totals
+2025-08-01,"1,809,801",Ending Consumer Members,q3_25,forecast,membership_totals
+2025-09-01,"1,880,720",Ending Consumer Members,q3_25,forecast,membership_totals
+2025-07-01,"1,763",Total Enterprise Members,q3_25,forecast,membership_totals
+2025-08-01,"1,763",Total Enterprise Members,q3_25,forecast,membership_totals
+2025-09-01,"1,763",Total Enterprise Members,q3_25,forecast,membership_totals
+2025-07-01,"1,733,292",Total Members,q3_25,forecast,membership_totals
+2025-08-01,"1,811,564",Total Members,q3_25,forecast,membership_totals
+2025-09-01,"1,882,483",Total Members,q3_25,forecast,membership_totals
+2025-07-01,3.8x,Quick Ratio - Consumer,q3_25,forecast,membership_totals
+2025-08-01,2.6x,Quick Ratio - Consumer,q3_25,forecast,membership_totals
+2025-09-01,2.4x,Quick Ratio - Consumer,q3_25,forecast,membership_totals
+2025-07-01,(3.6%),% Churn,q3_25,forecast,membership_totals
+2025-08-01,(3.7%),% Churn,q3_25,forecast,membership_totals
+2025-09-01,(3.5%),% Churn,q3_25,forecast,membership_totals
+2025-07-01,(2.5%),Net Churn,q3_25,forecast,membership_totals
+2025-08-01,(2.8%),Net Churn,q3_25,forecast,membership_totals
+2025-09-01,(2.7%),Net Churn,q3_25,forecast,membership_totals
+2025-07-01,"3,034",Returns,q3_25,forecast,membership_totals
+2025-08-01,"1,688",Returns,q3_25,forecast,membership_totals
+2025-09-01,"1,259",Returns,q3_25,forecast,membership_totals
+2025-07-01,"1,519",Month 1 Trial Churn,q3_25,forecast,membership_totals
+2025-08-01,"1,630",Month 1 Trial Churn,q3_25,forecast,membership_totals
+2025-09-01,"2,246",Month 1 Trial Churn,q3_25,forecast,membership_totals
+2025-07-01,"4,553",Returns & Trial Cancellation,q3_25,forecast,membership_totals
+2025-08-01,"3,318",Returns & Trial Cancellation,q3_25,forecast,membership_totals
+2025-09-01,"3,505",Returns & Trial Cancellation,q3_25,forecast,membership_totals
+2025-07-01,"$9,684,749",CAC Spend,q3_25,forecast,marketing_spend_blended_cac
+2025-08-01,"$7,728,612",CAC Spend,q3_25,forecast,marketing_spend_blended_cac
+2025-09-01,"$7,649,249",CAC Spend,q3_25,forecast,marketing_spend_blended_cac
+2025-07-01,"131,512",New Demand (Excl Unite & Upcycle),q3_25,forecast,product_breakout
+2025-08-01,"115,658",New Demand (Excl Unite & Upcycle),q3_25,forecast,product_breakout
+2025-09-01,"114,748",New Demand (Excl Unite & Upcycle),q3_25,forecast,product_breakout
+2025-07-01,"14,300",One,q3_25,forecast,product_breakout
+2025-08-01,"20,956",One,q3_25,forecast,product_breakout
+2025-09-01,"24,231",One,q3_25,forecast,product_breakout
+2025-07-01,"53,417",Pro,q3_25,forecast,product_breakout
+2025-08-01,"58,262",Pro,q3_25,forecast,product_breakout
+2025-09-01,"60,081",Pro,q3_25,forecast,product_breakout
+2025-07-01,"41,313",Life,q3_25,forecast,product_breakout
+2025-08-01,"34,265",Life,q3_25,forecast,product_breakout
+2025-09-01,"30,436",Life,q3_25,forecast,product_breakout
+2025-07-01,"62,699",Upgraders,q3_25,forecast,product_breakout
+2025-08-01,"50,043",Upgraders,q3_25,forecast,product_breakout
+2025-09-01,"40,021",Upgraders,q3_25,forecast,product_breakout
+2025-07-01,"1,079",One,q3_25,forecast,product_breakout
+2025-08-01,"1,069",One,q3_25,forecast,product_breakout
+2025-09-01,959,One,q3_25,forecast,product_breakout
+2025-07-01,"39,986",Pro,q3_25,forecast,product_breakout
+2025-08-01,"32,048",Pro,q3_25,forecast,product_breakout
+2025-09-01,"25,771",Pro,q3_25,forecast,product_breakout
+2025-07-01,"21,634",Life,q3_25,forecast,product_breakout
+2025-08-01,"16,926",Life,q3_25,forecast,product_breakout
+2025-09-01,"13,291",Life,q3_25,forecast,product_breakout
+2025-07-01,"194,210",Total New Demand & Upgrades,q3_25,forecast,product_breakout
+2025-08-01,"165,701",Total New Demand & Upgrades,q3_25,forecast,product_breakout
+2025-09-01,"154,769",Total New Demand & Upgrades,q3_25,forecast,product_breakout
+2025-07-01,"15,379",One,q3_25,forecast,product_breakout
+2025-08-01,"22,025",One,q3_25,forecast,product_breakout
+2025-09-01,"25,189",One,q3_25,forecast,product_breakout
+2025-07-01,"93,403",Pro,q3_25,forecast,product_breakout
+2025-08-01,"90,310",Pro,q3_25,forecast,product_breakout
+2025-09-01,"85,852",Pro,q3_25,forecast,product_breakout
+2025-07-01,"62,947",Life,q3_25,forecast,product_breakout
+2025-08-01,"51,191",Life,q3_25,forecast,product_breakout
+2025-09-01,"43,728",Life,q3_25,forecast,product_breakout
+2025-07-01,"1,733,292",Total Membership,q3_25,forecast,product_breakout
+2025-08-01,"1,811,564",Total Membership,q3_25,forecast,product_breakout
+2025-09-01,"1,882,483",Total Membership,q3_25,forecast,product_breakout
+2025-07-01,"39,050",One,q3_25,forecast,product_breakout
+2025-08-01,"61,075",One,q3_25,forecast,product_breakout
+2025-09-01,"86,265",One,q3_25,forecast,product_breakout
+2025-07-01,"366,945",Pro,q3_25,forecast,product_breakout
+2025-08-01,"457,255",Pro,q3_25,forecast,product_breakout
+2025-09-01,"543,106",Pro,q3_25,forecast,product_breakout
+2025-07-01,"310,166",Life,q3_25,forecast,product_breakout
+2025-08-01,"361,357",Life,q3_25,forecast,product_breakout
+2025-09-01,"405,084",Life,q3_25,forecast,product_breakout
+2025-07-01,"$1,398,685",New Member Bookings,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$1,166,819",New Member Bookings,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$928,305",New Member Bookings,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$4,980,244",Existing Member Bookings,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$5,427,581",Existing Member Bookings,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$5,474,256",Existing Member Bookings,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$279,880",Life+ Bookings,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$255,547",Life+ Bookings,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$236,279",Life+ Bookings,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$6,658,809",DTC A&A Gross Bookings,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$6,849,947",DTC A&A Gross Bookings,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$6,638,840",DTC A&A Gross Bookings,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$1,015,264",WHL A&A Revenue,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$946,550",WHL A&A Revenue,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$1,294,345",WHL A&A Revenue,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$7,674,073",Total A&A,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$7,796,497",Total A&A,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$7,933,185",Total A&A,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$474,901",Battery Pack,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$431,405",Battery Pack,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$565,549",Battery Pack,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$540,363",Bands,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$515,144",Bands,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$728,796",Bands,q3_25,forecast,initial_a_a_demand
+2025-07-01,"$1,015,264",Total,q3_25,forecast,initial_a_a_demand
+2025-08-01,"$946,550",Total,q3_25,forecast,initial_a_a_demand
+2025-09-01,"$1,294,345",Total,q3_25,forecast,initial_a_a_demand
+2025-10-01,"39,408",DTC Orders,q4_25,forecast,memberships_sold
+2025-11-01,"75,863",DTC Orders,q4_25,forecast,memberships_sold
+2025-12-01,"72,281",DTC Orders,q4_25,forecast,memberships_sold
+2025-10-01,"39,292",Trial Conversions,q4_25,forecast,memberships_sold
+2025-11-01,"37,378",Trial Conversions,q4_25,forecast,memberships_sold
+2025-12-01,"41,506",Trial Conversions,q4_25,forecast,memberships_sold
+2025-10-01,"54,456",Wholesale Orders,q4_25,forecast,memberships_sold
+2025-11-01,"75,127",Wholesale Orders,q4_25,forecast,memberships_sold
+2025-12-01,"66,364",Wholesale Orders,q4_25,forecast,memberships_sold
+2025-10-01,"6,557",Other Membership Orders,q4_25,forecast,memberships_sold
+2025-11-01,"5,555",Other Membership Orders,q4_25,forecast,memberships_sold
+2025-12-01,"5,906",Other Membership Orders,q4_25,forecast,memberships_sold
+2025-10-01,"139,713",Gross New Members Added,q4_25,forecast,memberships_sold
+2025-11-01,"193,923",Gross New Members Added,q4_25,forecast,memberships_sold
+2025-12-01,"186,058",Gross New Members Added,q4_25,forecast,memberships_sold
+2025-10-01,"5,884",Upcycle,q4_25,forecast,memberships_sold
+2025-11-01,"4,556",Upcycle,q4_25,forecast,memberships_sold
+2025-12-01,"3,794",Upcycle,q4_25,forecast,memberships_sold
+2025-10-01,673,Partnership Bulk Sales,q4_25,forecast,memberships_sold
+2025-11-01,999,Partnership Bulk Sales,q4_25,forecast,memberships_sold
+2025-12-01,"2,112",Partnership Bulk Sales,q4_25,forecast,memberships_sold
+2025-10-01,"21,698",US Trial Purchases,q4_25,forecast,trials_breakout
+2025-11-01,"24,506",US Trial Purchases,q4_25,forecast,trials_breakout
+2025-12-01,"15,971",US Trial Purchases,q4_25,forecast,trials_breakout
+2025-10-01,"43,253",INTL Trial Purchases,q4_25,forecast,trials_breakout
+2025-11-01,"52,540",INTL Trial Purchases,q4_25,forecast,trials_breakout
+2025-12-01,"39,143",INTL Trial Purchases,q4_25,forecast,trials_breakout
+2025-10-01,"22,686",US Eligible Trialers,q4_25,forecast,trial_purchases
+2025-11-01,"22,122",US Eligible Trialers,q4_25,forecast,trial_purchases
+2025-12-01,"23,570",US Eligible Trialers,q4_25,forecast,trial_purchases
+2025-10-01,"45,738",INTL Eligible Trialers,q4_25,forecast,trial_purchases
+2025-11-01,"44,262",INTL Eligible Trialers,q4_25,forecast,trial_purchases
+2025-12-01,"49,753",INTL Eligible Trialers,q4_25,forecast,trial_purchases
+2025-10-01,"14,353",US Trial Conversions,q4_25,forecast,total_eligible_trialers
+2025-11-01,"14,112",US Trial Conversions,q4_25,forecast,total_eligible_trialers
+2025-12-01,"15,111",US Trial Conversions,q4_25,forecast,total_eligible_trialers
+2025-10-01,"24,939",INTL Trial Conversions,q4_25,forecast,total_eligible_trialers
+2025-11-01,"23,266",INTL Trial Conversions,q4_25,forecast,total_eligible_trialers
+2025-12-01,"26,395",INTL Trial Conversions,q4_25,forecast,total_eligible_trialers
+2025-10-01,63.3%,US Trial CVR %,q4_25,forecast,total_trial_conversions
+2025-11-01,63.8%,US Trial CVR %,q4_25,forecast,total_trial_conversions
+2025-12-01,64.1%,US Trial CVR %,q4_25,forecast,total_trial_conversions
+2025-10-01,54.5%,INTL Trial CVR%,q4_25,forecast,total_trial_conversions
+2025-11-01,52.6%,INTL Trial CVR%,q4_25,forecast,total_trial_conversions
+2025-12-01,53.1%,INTL Trial CVR%,q4_25,forecast,total_trial_conversions
+2025-10-01,0.0%,Partnership Trial CVR%,q4_25,forecast,total_trial_conversions
+2025-11-01,0.0%,Partnership Trial CVR%,q4_25,forecast,total_trial_conversions
+2025-12-01,0.0%,Partnership Trial CVR%,q4_25,forecast,total_trial_conversions
+2025-10-01,57.4%,TOTAL DTC Trial CVR %,q4_25,forecast,total_trial_conversions
+2025-11-01,56.3%,TOTAL DTC Trial CVR %,q4_25,forecast,total_trial_conversions
+2025-12-01,56.6%,TOTAL DTC Trial CVR %,q4_25,forecast,total_trial_conversions
+2025-10-01,57.4%,TOTAL TRIAL CVR % (Incl. Partnership),q4_25,forecast,total_trial_conversions
+2025-11-01,56.3%,TOTAL TRIAL CVR % (Incl. Partnership),q4_25,forecast,total_trial_conversions
+2025-12-01,56.6%,TOTAL TRIAL CVR % (Incl. Partnership),q4_25,forecast,total_trial_conversions
+2025-10-01,"1,880,720",Beginning Consumer Members,q4_25,forecast,membership_totals
+2025-11-01,"1,960,649",Beginning Consumer Members,q4_25,forecast,membership_totals
+2025-12-01,"2,055,401",Beginning Consumer Members,q4_25,forecast,membership_totals
+2025-10-01,"132,609",New Members (Activations),q4_25,forecast,membership_totals
+2025-11-01,"142,890",New Members (Activations),q4_25,forecast,membership_totals
+2025-12-01,"204,951",New Members (Activations),q4_25,forecast,membership_totals
+2025-10-01,"(67,214)",Churned Members,q4_25,forecast,membership_totals
+2025-11-01,"(62,395)",Churned Members,q4_25,forecast,membership_totals
+2025-12-01,"(81,726)",Churned Members,q4_25,forecast,membership_totals
+2025-10-01,"(3,585)",Returns & Trial Cancellation,q4_25,forecast,membership_totals
+2025-11-01,"(3,475)",Returns & Trial Cancellation,q4_25,forecast,membership_totals
+2025-12-01,"(4,127)",Returns & Trial Cancellation,q4_25,forecast,membership_totals
+2025-10-01,"(63,629)",Churn (excl. M1),q4_25,forecast,membership_totals
+2025-11-01,"(58,920)",Churn (excl. M1),q4_25,forecast,membership_totals
+2025-12-01,"(77,599)",Churn (excl. M1),q4_25,forecast,membership_totals
+2025-10-01,"14,533",Re-Engaged Members / Legacy,q4_25,forecast,membership_totals
+2025-11-01,"14,258",Re-Engaged Members / Legacy,q4_25,forecast,membership_totals
+2025-12-01,"15,569",Re-Engaged Members / Legacy,q4_25,forecast,membership_totals
+2025-10-01,"1,960,649",Ending Consumer Members,q4_25,forecast,membership_totals
+2025-11-01,"2,055,401",Ending Consumer Members,q4_25,forecast,membership_totals
+2025-12-01,"2,194,196",Ending Consumer Members,q4_25,forecast,membership_totals
+2025-10-01,"1,763",Total Enterprise Members,q4_25,forecast,membership_totals
+2025-11-01,"1,763",Total Enterprise Members,q4_25,forecast,membership_totals
+2025-12-01,"1,763",Total Enterprise Members,q4_25,forecast,membership_totals
+2025-10-01,"1,962,412",Total Members,q4_25,forecast,membership_totals
+2025-11-01,"2,057,164",Total Members,q4_25,forecast,membership_totals
+2025-12-01,"2,195,959",Total Members,q4_25,forecast,membership_totals
+2025-10-01,2.8x,Quick Ratio - Consumer,q4_25,forecast,membership_totals
+2025-11-01,4.3x,Quick Ratio - Consumer,q4_25,forecast,membership_totals
+2025-12-01,2.9x,Quick Ratio - Consumer,q4_25,forecast,membership_totals
+2025-10-01,(3.4%),% Churn,q4_25,forecast,membership_totals
+2025-11-01,(3.0%),% Churn,q4_25,forecast,membership_totals
+2025-12-01,(3.8%),% Churn,q4_25,forecast,membership_totals
+2025-10-01,(2.6%),Net Churn,q4_25,forecast,membership_totals
+2025-11-01,(2.3%),Net Churn,q4_25,forecast,membership_totals
+2025-12-01,(3.0%),Net Churn,q4_25,forecast,membership_totals
+2025-10-01,978,Returns,q4_25,forecast,membership_totals
+2025-11-01,963,Returns,q4_25,forecast,membership_totals
+2025-12-01,"1,256",Returns,q4_25,forecast,membership_totals
+2025-10-01,"2,607",Month 1 Trial Churn,q4_25,forecast,membership_totals
+2025-11-01,"2,512",Month 1 Trial Churn,q4_25,forecast,membership_totals
+2025-12-01,"2,871",Month 1 Trial Churn,q4_25,forecast,membership_totals
+2025-10-01,"3,585",Returns & Trial Cancellation,q4_25,forecast,membership_totals
+2025-11-01,"3,475",Returns & Trial Cancellation,q4_25,forecast,membership_totals
+2025-12-01,"4,127",Returns & Trial Cancellation,q4_25,forecast,membership_totals
+2025-10-01,"$7,721,757",CAC Spend,q4_25,forecast,marketing_spend_blended_cac
+2025-11-01,"$11,504,367",CAC Spend,q4_25,forecast,marketing_spend_blended_cac
+2025-12-01,"$11,231,261",CAC Spend,q4_25,forecast,marketing_spend_blended_cac
+2025-10-01,"133,829",New Demand (Excl Unite & Upcycle),q4_25,forecast,product_breakout
+2025-11-01,"189,367",New Demand (Excl Unite & Upcycle),q4_25,forecast,product_breakout
+2025-12-01,"182,264",New Demand (Excl Unite & Upcycle),q4_25,forecast,product_breakout
+2025-10-01,"28,134",One,q4_25,forecast,product_breakout
+2025-11-01,"29,962",One,q4_25,forecast,product_breakout
+2025-12-01,"35,561",One,q4_25,forecast,product_breakout
+2025-10-01,"69,933",Pro,q4_25,forecast,product_breakout
+2025-11-01,"99,773",Pro,q4_25,forecast,product_breakout
+2025-12-01,"94,340",Pro,q4_25,forecast,product_breakout
+2025-10-01,"35,762",Life,q4_25,forecast,product_breakout
+2025-11-01,"59,632",Life,q4_25,forecast,product_breakout
+2025-12-01,"52,363",Life,q4_25,forecast,product_breakout
+2025-10-01,"30,497",Upgraders,q4_25,forecast,product_breakout
+2025-11-01,"32,218",Upgraders,q4_25,forecast,product_breakout
+2025-12-01,"32,101",Upgraders,q4_25,forecast,product_breakout
+2025-10-01,671,One,q4_25,forecast,product_breakout
+2025-11-01,609,One,q4_25,forecast,product_breakout
+2025-12-01,619,One,q4_25,forecast,product_breakout
+2025-10-01,"19,464",Pro,q4_25,forecast,product_breakout
+2025-11-01,"20,576",Pro,q4_25,forecast,product_breakout
+2025-12-01,"20,586",Pro,q4_25,forecast,product_breakout
+2025-10-01,"10,361",Life,q4_25,forecast,product_breakout
+2025-11-01,"11,033",Life,q4_25,forecast,product_breakout
+2025-12-01,"10,896",Life,q4_25,forecast,product_breakout
+2025-10-01,"164,326",Total New Demand & Upgrades,q4_25,forecast,product_breakout
+2025-11-01,"221,585",Total New Demand & Upgrades,q4_25,forecast,product_breakout
+2025-12-01,"214,365",Total New Demand & Upgrades,q4_25,forecast,product_breakout
+2025-10-01,"28,805",One,q4_25,forecast,product_breakout
+2025-11-01,"30,571",One,q4_25,forecast,product_breakout
+2025-12-01,"36,180",One,q4_25,forecast,product_breakout
+2025-10-01,"89,397",Pro,q4_25,forecast,product_breakout
+2025-11-01,"120,349",Pro,q4_25,forecast,product_breakout
+2025-12-01,"114,926",Pro,q4_25,forecast,product_breakout
+2025-10-01,"46,123",Life,q4_25,forecast,product_breakout
+2025-11-01,"70,664",Life,q4_25,forecast,product_breakout
+2025-12-01,"63,259",Life,q4_25,forecast,product_breakout
+2025-10-01,"1,962,412",Total Membership,q4_25,forecast,product_breakout
+2025-11-01,"2,057,164",Total Membership,q4_25,forecast,product_breakout
+2025-12-01,"2,195,959",Total Membership,q4_25,forecast,product_breakout
+2025-10-01,"115,070",One,q4_25,forecast,product_breakout
+2025-11-01,"145,641",One,q4_25,forecast,product_breakout
+2025-12-01,"181,821",One,q4_25,forecast,product_breakout
+2025-10-01,"632,503",Pro,q4_25,forecast,product_breakout
+2025-11-01,"752,853",Pro,q4_25,forecast,product_breakout
+2025-12-01,"867,778",Pro,q4_25,forecast,product_breakout
+2025-10-01,"451,208",Life,q4_25,forecast,product_breakout
+2025-11-01,"521,872",Life,q4_25,forecast,product_breakout
+2025-12-01,"585,132",Life,q4_25,forecast,product_breakout
+2025-10-01,"$885,396",New Member Bookings,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$1,627,662",New Member Bookings,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$1,530,795",New Member Bookings,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$5,635,747",Existing Member Bookings,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$8,610,643",Existing Member Bookings,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$7,283,393",Existing Member Bookings,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$388,662",Life+ Bookings,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$330,028",Life+ Bookings,q4_25,forecast,initial_a_a_demand
+2025-12-01,$0,Life+ Bookings,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$6,909,805",DTC A&A Gross Bookings,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$10,568,333",DTC A&A Gross Bookings,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$8,814,188",DTC A&A Gross Bookings,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$1,758,175",WHL A&A Revenue,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$2,490,732",WHL A&A Revenue,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$2,049,180",WHL A&A Revenue,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$8,667,980",Total A&A,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$13,059,065",Total A&A,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$10,863,368",Total A&A,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$752,920",Battery Pack,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$1,078,109",Battery Pack,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$861,075",Battery Pack,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$1,005,254",Bands,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$1,412,623",Bands,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$1,188,105",Bands,q4_25,forecast,initial_a_a_demand
+2025-10-01,"$1,758,175",Total,q4_25,forecast,initial_a_a_demand
+2025-11-01,"$2,490,732",Total,q4_25,forecast,initial_a_a_demand
+2025-12-01,"$2,049,180",Total,q4_25,forecast,initial_a_a_demand

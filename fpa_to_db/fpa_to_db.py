@@ -28,6 +28,7 @@ python fpa_to_db/fpa_to_db.py \
 import argparse
 import re
 from pathlib import Path
+from datetime import datetime
 import pandas as pd
 
 CHANNEL_MAP = {
@@ -112,6 +113,10 @@ def extract_quarter(df: pd.DataFrame, quarter: str) -> pd.DataFrame:
 
         # Map channel names if needed
         channel = CHANNEL_MAP.get(label, label)
+        
+        # Skip channels that equal "Other Membership Sold Breakout"
+        if channel == "Other Membership Sold Breakout":
+            continue
 
         # Emit one record per month
         for j, val in enumerate(row_vals):
@@ -126,8 +131,12 @@ def extract_quarter(df: pd.DataFrame, quarter: str) -> pd.DataFrame:
             else:
                 fa_norm = fa or ""
 
+            # Convert date string to proper datetime object (add -01 for first of month)
+            date_str = dates[j] + "-01"
+            date_obj = datetime.strptime(date_str, "%Y-%m-%d").date()
+
             records.append({
-                "Date": dates[j],
+                "Date": date_obj,
                 "Target": val,
                 "Channel": channel,
                 "Quarter": quarter_norm,
